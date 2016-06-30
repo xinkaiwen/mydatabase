@@ -5,9 +5,69 @@
   "descripes": "好看",
   "points": "18"
 },{
-  "src": "mypublic/images/shopping_dlr.jpg",
-  "name": "独立日：卷土重来",
-  "price": "￥69",
-  "descripes": "好看",
-  "points": "18"
+    "src": "mypublic/images/shopping_hdzdy.jpg",
+    "name": "海底总动员2：多莉去哪儿",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18"
+},{
+    "src": "mypublic/images/shopping_ms.jpg",
+    "name": "魔兽",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18"
+},{
+    "src": "mypublic/images/shopping_xzj.jpg",
+    "name": "X战警：天启",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18"
+},{
+    "src": "mypublic/images/shopping_rzsg.jpg",
+    "name": "忍者神龟2：破影而出",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+}, {
+    "src": "mypublic/images/shopping_hz.jpg",
+    "name": "寒战Ⅱ",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+}, {
+    "src": "mypublic/images/shopping_ksqskqs.jpg",
+    "name": "快手枪手快枪手",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+},{
+    "src": "mypublic/images/shopping_tsgl.jpg",
+    "name": "泰山归来：险战丛林",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+},{
+    "src": "mypublic/images/shopping_xjmh.jpg",
+    "name": "星际迷航：超越",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+},{
+    "src": "mypublic/images/shopping_xtqd.jpg",
+    "name": "X特遣队",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+},{
+    "src": "mypublic/images/shopping_ssdpx.jpg",
+    "name": "深水地平线",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
+},{
+    "src": "mypublic/images/shopping_qybs.jpg",
+    "name": "奇异博士",
+    "price": "￥69",
+    "descripes": "好看",
+    "points": "18",
 }]
